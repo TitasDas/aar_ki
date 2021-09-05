@@ -1,6 +1,13 @@
 # aar_ki
 khabar, baar baar , khali khaabar
 
+## Feature based
+
+1. Temporal taste based profiles :
+
+- Check Morita Kagaku kogyo, 2011 temporal sweetness profile graph
+- Other ref https://www.sciencedirect.com/science/article/abs/pii/S0963996919301632
+
 
 ## Patents
 
