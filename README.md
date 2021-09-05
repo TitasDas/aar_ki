@@ -3,7 +3,7 @@ khabar, baar baar , khali khaabar
 
 ## Feature based
 
-1. Temporal taste based profiles :
+1. Temporal taste based profiles : The sense of taste can be plotted along intensity (y-axis) and time (x-axis) to measure a notion of satisfaction it causes in people. 
 
 - Check Morita Kagaku kogyo, 2011 temporal sweetness profile graph
 - Other ref https://www.sciencedirect.com/science/article/abs/pii/S0963996919301632
